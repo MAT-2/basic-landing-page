@@ -23,9 +23,30 @@
 
 .mainContent {
   background-color: peachpuff;
+  display: block;
+  position: relative;
 }
 
 #contentTitle {
   font-size: 35px;
   font-weight: bold;
+  position: relative;
+  left: 700px;
+}
+
+img {
+  position: relative;
+  left: 725px;
+}
+
+#contentParagraph {
+  position: relative;
+  left: 500px;
+}
+
+#content {
+  background-color: white;
+  position: relative;
+  top: 20px;
+  bottom: 20px;
 }
