@@ -1,0 +1,22 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.nav-bar {
+  background-color: rgba(52, 125, 66, 0.682);
+  margin: 0px;
+  padding: 8px;
+  color: white;
+}
+
+.button {
+  list-style-type: none;
+  display: inline;
+  position: relative;
+  left: 1600px;
+  padding: 15px;
+}
+
+.button:hover {
+  cursor: pointer;
+}
