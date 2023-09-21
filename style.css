@@ -66,6 +66,22 @@ footer {
   position: relative;
   left: 200px;
 }
+
+#button {
+  background-color: rgb(55, 47, 47);
+  color: white;
+  font-size: 20px;
+  position: relative;
+  display: block;
+  top: 10px;
+  left: 200px;
+  width: 90px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
 #footer {
   position: relative;
   left: 770px;

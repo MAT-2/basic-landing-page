@@ -16,6 +16,6 @@ Refer to LICENSE in repository.
 
 ## References
 
-w3School: https://www.w3schools.com/html/html5_semantic_elements.asp , https://www.w3schools.com/cssref/sel_hover.php , https://www.w3schools.com/cssref/pr_class_cursor.php
+w3School: https://www.w3schools.com/html/html5_semantic_elements.asp , https://www.w3schools.com/cssref/sel_hover.php , https://www.w3schools.com/cssref/pr_class_cursor.php , https://www.w3schools.com/css/css3_buttons.asp
 Mozilla: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
 Resource to remove bullet points: https://getcssscan.com/blog/how-to-remove-bullets-from-li-css#:~:text=To%20remove%20bullets%20from%20a,type%3A%20none%20to%20your%20code.&text=This%20code%20targets%20the%20CSS,none%20to%20remove%20the%20bullets.
