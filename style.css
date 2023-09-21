@@ -57,6 +57,15 @@ footer {
   bottom: 20px;
 }
 
+#contactSection {
+  position: relative;
+  left: 690px;
+}
+
+#contactTitle {
+  position: relative;
+  left: 200px;
+}
 #footer {
   position: relative;
   left: 770px;
